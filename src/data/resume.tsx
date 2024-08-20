@@ -203,7 +203,7 @@ export const DATA = {
         },
     {
       company: "Genzon Investment Group",
-      href: "http://www.genzon.com.cn/",
+      // href: "http://www.genzon.com.cn/",
       badges: [],
       location: "Shenzhen, China",
       title: "Product Manager Intern",
@@ -215,7 +215,7 @@ export const DATA = {
     },
     {
       company: "SAIC Motor Corporation Limited (SAIC Motor)",
-      href: "https://splunk.comhttps://www.saicmotor.com/english/index.shtml",
+      // href: "https://splunk.comhttps://www.saicmotor.com/english/index.shtml",
       badges: [],
       location: "Shanghai, China",
       title: "Data Engineer Intern",
