@@ -89,7 +89,7 @@ export default function Page() {
                 altText={research.company}
                 title={research.company}
                 subtitle={research.title}
-                href={research.href}
+                // href={research.href}
                 badges={research.badges}
                 period={`${research.start} - ${research.end ?? "Present"}`}
                 description={research.description}

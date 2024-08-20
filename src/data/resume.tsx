@@ -117,7 +117,7 @@ export const DATA = {
     location: "Amsterdam, Netherlands",
     title: "Knowledge Representation and Reasoning Group",
     logoUrl: "/KRR.png",
-    href: "https://krr.cs.vu.nl/",
+    // href: "https://krr.cs.vu.nl/",
     start: "Jan 2023",
     end: "Aug 2023",
     description:
@@ -129,6 +129,7 @@ export const DATA = {
     badges: [],
     location: "Macau, China",
     title: "Advised by Jiyue Jiang",
+    logoUrl: "",
     start: "Mar 2020",
     end: "Feb 2021",
     description: 
