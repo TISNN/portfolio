@@ -258,6 +258,7 @@ export const DATA = {
     //   video:
     //     "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
      },
+
     {
       title: "Magic UI",
       href: "https://magicui.design",
@@ -290,6 +291,7 @@ export const DATA = {
       image: "/nose.webp",
       // video: "https://cdn.magicui.design/bento-grid.mp4",
     },
+
     {
       title: "Reconstructing Traditional Cultural Cognition in AI-Driven Cultural and Creative Product Design",
       href: "https://chatcollect.com",
@@ -321,6 +323,7 @@ export const DATA = {
       image: "/门神.jpg",
       // video: "https://cdn.llm.report/openai-demo.mp4",
     },
+
     {
       title: "Massachusetts Laboratory for Engineering Medicine and Critical Data (LEMD)",
       href: "https://automatic.chat",
@@ -346,6 +349,7 @@ export const DATA = {
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
     },
+
     {
       title: "Xiaoyu Study Abroad Platform",
       href: "https://automatic.chat",
@@ -374,7 +378,7 @@ export const DATA = {
       title: "Create a Modular Data Processing Pipeline using Brane Framework",
       href: "https://automatic.chat",
       dates: "Apr 2022 - Jun 2022",
-      active: false,
+      active: true,
       description: 
         "Utilized the Brane framework's containerization capabilities to develop a modular data processing pipeline for the Kaggle challenge 'Titanic - Machine Learning from Disaster'. Enhanced data analysis and model training processes by structuring the pipeline into four distinct packages: 'Initialization'、'Get Features'、 'Train and Prediction', and 'Visualization' for analyzing results.",
       
@@ -396,11 +400,12 @@ export const DATA = {
        ],
       image: "/brane.png",
     },
+
     {
       title: "Large Scale Data Mining, Analysis, and Visualization for Scientific Communities",
       href: "https://automatic.chat",
       dates: "Sep 2021 - Nov 2021",
-      active: false,
+      active: true,
       description: 
         "Processed and analyzed 96GB of metadata from CrossRef, including 120 million academic papers, to create a directed graph representing mutual citation relationships. Constructed a citation relationship graph focusing on 8,768 core journals, applying community detection algorithms, and successfully divided them into 128 scientific communities. Identified highly closed communities based on internal citation frequencies, and found pairs of communities with frequent mutual citations.",
       technologies: [
@@ -422,6 +427,7 @@ export const DATA = {
       ],
       image: "/lsde.png",
     },
+
     {
       title: "RPA: Entrepreneurship in Analytics and AI",
       href: "https://automatic.chat",
@@ -515,7 +521,7 @@ export const DATA = {
       title: "Using Different Deep Learning Models to Detect COVID-19",
       href: "https://automatic.chat",
       dates: "Dec 2020 - May 2021",
-      active: false,
+      active: true,
       description:
         "Built an early screening model using deep learning techniques to distinguish COVID-19 from CT images of lungs in healthy cases. DResUnet achieved the best results with 85.54% accuracy and 87.02% AUC in comparison experiments of several deep learning models.",
       technologies: [
@@ -545,7 +551,7 @@ export const DATA = {
       title: "Machine Learning for Quantified Self",
       href: "https://automatic.chat",
       dates: "Jun 2022 - Jul 2022",
-      active: false,
+      active: true,
       description: 
         "Developed a time series analysis model to predict specific physical activities (e.g., walking, running) of subjects using multi-dimensional sensor data. Enhanced an LSTM model for multivariate time series by optimizing through hyperparameter tuning. Integrated a dense layer and dropout to reduce overfitting.",
       technologies: [
@@ -575,7 +581,7 @@ export const DATA = {
       title: "Use Multi-layer LSTM Model and Ensemble Learning to Detect Fake News",
       href: "https://automatic.chat",
       dates: "Nov 2021 - Jan 2022",
-      active: false,
+      active: true,
       description: 
         "Designed and developed a fake news detection system using LSTM, Bi-LSTM, and ensemble learning methods. Implemented a six-step data pre-processing workflow and utilized TF-IDF for feature extraction. Developed a four-layer LSTM model with embedding layers and fully connected layers for dimensionality reduction, separately analyzing and combining features from article titles and texts. Achieved significant improvements in fake news detection accuracy and robustness, with an accuracy of 95.72% using the 4-LSTM model and 97.46% using ensemble learning algorithms, outperforming existing benchmark models.",
       technologies: [
@@ -605,7 +611,7 @@ export const DATA = {
       title: "Election Analysis and Winner Prediction Via Twitter",
       href: "https://automatic.chat",
       dates: "Nov 2022 - Dec 2022",
-      active: false,
+      active: true,
       description: 
         "The main objective was to understand the true intentions of the candidates, the public's expectations of the candidates, and predict the winner with the margin of victory. Employed TextBlob for sentiment analysis to process the textual data of tweets and analyze people's attitudes toward political candidates.",
       technologies: [
