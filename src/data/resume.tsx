@@ -232,7 +232,7 @@ export const DATA = {
   projects: [
     {
       title: "An Enhanced Lightweight CN-EN Bilingual Medical QA System",
-      // href: "https://chatcollect.com",
+      href: "",
       dates: "Dec 2022 - Aug 2023",
       active: true,
       description:
@@ -292,7 +292,7 @@ export const DATA = {
     },
     {
       title: "Reconstructing Traditional Cultural Cognition in AI-Driven Cultural and Creative Product Design",
-      // href: "https://llm.report",
+      href: "",
       dates: "April 2023 - September 2023",
       active: true,
       description:
@@ -421,7 +421,7 @@ export const DATA = {
     },
     {
       title: "RPA: Entrepreneurship in Analytics and AI",
-      // href: "https://automatic.chat",
+      href: "https://automatic.chat",
       dates: "July 2024 - Auguest 2024",
       active: true,
       description:
@@ -510,6 +510,7 @@ export const DATA = {
 
     {
       title: "Using Different Deep Learning Models to Detect COVID-19",
+      href: "https://automatic.chat",
       dates: "Dec 2020 - May 2021",
       active: false,
       description:
@@ -539,6 +540,7 @@ export const DATA = {
 
     {
       title: "Machine Learning for Quantified Self",
+      href: "https://automatic.chat",
       dates: "Jun 2022 - Jul 2022",
       active: false,
       description: 
@@ -568,6 +570,7 @@ export const DATA = {
 
     {
       title: "Use Multi-layer LSTM Model and Ensemble Learning to Detect Fake News",
+      href: "https://automatic.chat",
       dates: "Nov 2021 - Jan 2022",
       active: false,
       description: 
@@ -597,6 +600,7 @@ export const DATA = {
 
     {
       title: "Election Analysis and Winner Prediction Via Twitter",
+      href: "https://automatic.chat",
       dates: "Nov 2022 - Dec 2022",
       active: false,
       description: 
