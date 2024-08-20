@@ -232,7 +232,7 @@ export const DATA = {
   projects: [
     {
       title: "An Enhanced Lightweight CN-EN Bilingual Medical QA System",
-      href: "",
+      href: "https://chatcollect.com",
       dates: "Dec 2022 - Aug 2023",
       active: true,
       description:
@@ -247,13 +247,13 @@ export const DATA = {
         "Medicial",
         "Chinese Herbal Terminology",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://chatcollect.com",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [
+        {
+          type: "Website",
+          href: "https://chatcollect.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "/Bilingual.webp",
     //   video:
     //     "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
@@ -292,7 +292,7 @@ export const DATA = {
     },
     {
       title: "Reconstructing Traditional Cultural Cognition in AI-Driven Cultural and Creative Product Design",
-      href: "",
+      href: "https://chatcollect.com",
       dates: "April 2023 - September 2023",
       active: true,
       description:
@@ -306,18 +306,18 @@ export const DATA = {
           // "3D Conversion Algorithm",
           "3D Printing",
         ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://llm.report",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      //   {
-      //     type: "Source",
-      //     href: "https://github.com/dillionverma/llm.report",
-      //     icon: <Icons.github className="size-3" />,
-      //   },
-      // ],
+      links: [
+        {
+          type: "Website",
+          href: "https://llm.report",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/dillionverma/llm.report",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
       image: "/门神.jpg",
       // video: "https://cdn.llm.report/openai-demo.mp4",
     },
@@ -335,13 +335,13 @@ export const DATA = {
         "Prototype Design",
         "Axure RP",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://automatic.chat",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [
+        {
+          type: "Website",
+          href: "https://automatic.chat",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "/lemd home page.png",
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
@@ -360,17 +360,19 @@ export const DATA = {
          "Product Prototype Design",
          "Sketch",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://automatic.chat",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [
+        {
+          type: "Website",
+          href: "https://automatic.chat",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "/小屿.png",
     },
+
     {
       title: "Create a Modular Data Processing Pipeline using Brane Framework",
+      href: "https://automatic.chat",
       dates: "Apr 2022 - Jun 2022",
       active: false,
       description: 
@@ -396,6 +398,7 @@ export const DATA = {
     },
     {
       title: "Large Scale Data Mining, Analysis, and Visualization for Scientific Communities",
+      href: "https://automatic.chat",
       dates: "Sep 2021 - Nov 2021",
       active: false,
       description: 
@@ -410,13 +413,13 @@ export const DATA = {
         "Visualization",
         "Scientific Communities",
       ],
-      // links: [
-      //   {
-      //     type: "Website",
-      //     href: "https://github.com/TISNN/2022_brane?tab=readme-ov-file",
-      //     icon: <Icons.globe className="size-3" />,
-      //   },
-      // ],
+      links: [
+        {
+          type: "Website",
+          href: "https://github.com/TISNN/2022_brane?tab=readme-ov-file",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
       image: "/lsde.png",
     },
     {
