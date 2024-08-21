@@ -239,7 +239,7 @@ export const DATA = {
 
   projects: [
     {
-      title: "Xiaoyu Study Abroad Platform",
+      title: "Study Abroad Enterprises Intelligent Management SaaS System",
       href: "",
       dates: "Jul 2024 - Aug 2024",
       active: true,
