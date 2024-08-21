@@ -171,7 +171,7 @@ export default function Page() {
           </div>
         </div>
       </section> */}
-
+{/* 
       <section id="about">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>
           <h2 className="text-xl font-bold">Awards & Certification</h2>
@@ -180,7 +180,7 @@ export default function Page() {
         <p>Prompt Engineering for ChatGPT - Coursera Certification </p>  
         <p>MACAU FINANCIAL AWARD CEREMONY</p>
         </BlurFade>
-      </section>
+      </section> */}
       
       <section id="projects">
         <div className="space-y-12 w-full py-12">
@@ -195,7 +195,7 @@ export default function Page() {
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here are a few of my
+                  websites to complex AI applications. Here are a few of my
                   favorites.
                 </p>
               </div>
@@ -229,18 +229,13 @@ export default function Page() {
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
-                  Hackathons
+                  Others
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  I like building things
+                Achievements and Contributions
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  I have listed some of the social activities, certificates, and awards I have participated in.
                 </p>
               </div>
             </div>
@@ -277,15 +272,7 @@ export default function Page() {
                 Get in Touch
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Want to chat? Just shoot me a dm{" "}
-                <Link
-                  href={DATA.contact.social.X.url}
-                  className="text-blue-500 hover:underline"
-                >
-                  with a direct question on twitter
-                </Link>{" "}
-                and I&apos;ll respond whenever I can. I will ignore all
-                soliciting.
+     Send me the email ⬇️
               </p>
             </div>
           </BlurFade>
