@@ -179,7 +179,7 @@ export const DATA = {
       badges: [],
       location: "Shanghai, China",
       title: "CEO",
-      logoUrl: "/studylands.png",
+      logoUrl: "/学屿logo.jpg",
       start: "Oct 2023",
       end: "Present",
       description:
