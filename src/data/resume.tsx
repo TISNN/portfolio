@@ -719,7 +719,7 @@ export const DATA = {
   hackathons: [
     {
       title: "Prompt Engineering for ChatGPT",
-      dates: "July 14th - 20th, 2024",
+      dates: "July, 2024",
       location: "Remote",
       description:
         "Coursera Certification",
